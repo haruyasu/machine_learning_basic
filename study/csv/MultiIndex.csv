@@ -1,0 +1,13 @@
+name,year,product,expected,actual
+Ojima-Caffe,2015,coffee,682,757
+Ojima-Caffe,2015,tea,597,485
+Ojima-Caffe,2016,coffee,692,379
+Ojima-Caffe,2016,tea,575,308
+Ojima-Caffe,2017,coffee,508,597
+Ojima-Caffe,2017,tea,597,657
+Song-cafe,2015,coffee,603,651
+Song-cafe,2015,tea,391,483
+Song-cafe,2016,coffee,533,530
+Song-cafe,2016,tea,552,638
+Song-cafe,2017,coffee,793,732
+Song-cafe,2017,tea,642,407
